@@ -14,7 +14,7 @@ var vendors = [
 
 const clientPath = 'client-src';
 const img = "images";
-const clientDestPath = 'phonegap/www';
+const clientDestPath = 'www';
 const resource = [
     `${clientPath}/**/*.{html,css}`,
     `${clientPath}/{${img},font,attachment}/*.*`
